@@ -2,7 +2,7 @@ import cv2
 from PIL import Image
 import os
 
-def video_to_pdf(video_path, output_pdf):
+# def video_to_pdf(video_path, output_pdf):
     # Create a folder for temporary frame images
     temp_dir = "frames_temp"
     os.makedirs(temp_dir, exist_ok=True)
