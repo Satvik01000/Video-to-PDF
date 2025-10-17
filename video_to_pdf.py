@@ -52,4 +52,4 @@ def video_to_pdf(video_path, output_pdf):
     os.rmdir(temp_dir)
 
 # Example usage:
-video_to_pdf("video.mp4", "output.pdf")
+video_to_pdf("hehehehe.mp4", "output.pdf")
